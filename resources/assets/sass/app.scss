@@ -33,6 +33,15 @@ body {
     margin-bottom: 60px;
 }
 
+/* User register page */
+.register-page {
+    img.captcha {
+        margin-bottom: 0px;
+        margin-top: 10px;
+        cursor: point;
+    }
+}
+
 .footer {
     position: absolute;
     bottom: 0;
