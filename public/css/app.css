@@ -8393,6 +8393,20 @@ body {
   margin-bottom: 60px;
 }
 
+/* Notifications badge */
+
+.notifications-badge {
+  margin-top: -1;
+}
+
+.notifications-badge .badge-fade {
+  background-color: #EBE8E8;
+}
+
+.notifications-badge .badge-hint {
+  background-color: #d15b47 !important;
+}
+
 /* Topic Index Page */
 
 .topics-index-page .topic-list .nav > li > a,

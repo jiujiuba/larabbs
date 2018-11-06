@@ -46,6 +46,19 @@ body {
     margin-bottom: 60px;
 }
 
+/* Notifications badge */
+
+.notifications-badge {
+    margin-top: -1;
+
+    .badge-fade {
+        background-color: #EBE8E8;
+    }
+
+    .badge-hint {
+        background-color: #d15b47 !important;
+    }
+}
 /* Topic Index Page */
 .topics-index-page, .categories-show-page {
     .topic-list {
